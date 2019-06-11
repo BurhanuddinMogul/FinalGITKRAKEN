@@ -19,3 +19,5 @@ public class Runner{
 	//to create multiple branches and merge them onto the master branch. I also learned how to use lambda expressions in java.
 
 }
+
+//I learned that GitKraken is way too complicated for me to use.  Also Lambda Expressions.
