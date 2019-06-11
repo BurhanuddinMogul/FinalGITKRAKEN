@@ -15,4 +15,7 @@ public class Runner{
 
     }
 
+	//Burhanuddin - I learned how to use gitkraken. I was able to learn what git is and start to undersdatnd git flow. I learned how
+	//to create multiple branches and merge them onto the master branch. I also learned how to use lambda expressions in java.
+
 }
