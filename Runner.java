@@ -16,3 +16,5 @@ public class Runner{
     }
 
 }
+
+//I learned that GitKraken is way too complicated for me to use.  Also Lambda Expressions.
